@@ -1,0 +1,25 @@
+1. my task is to classify people as: smoking, used to smoke and never smoked (3 categories) and they are in the feature SMK_stat_type_cd. I will give you the list of features with description are they numerical or categorical. 
+
+categorical - Sex	male, female	
+numerical - age	round up to 5 years	
+numerical - height	round up to 5 cm[cm]	
+numerical - weight	[kg]	
+numerical - sight_left	eyesight(left)	
+numerical - sight_right	eyesight(right)	
+categorical - hear_left	hearing left, 1(normal), 2(abnormal)	
+categorical - hear_right	hearing right, 1(normal), 2(abnormal)	
+numerical - SBP	Systolic blood pressure[mmHg]	
+numerical - DBP	Diastolic blood pressure[mmHg]	
+numerical - BLDS	BLDS or FSG(fasting blood glucose)[mg/dL]	
+numerical - tot_chole	total cholesterol[mg/dL]
+numerical - HDL_chole	HDL cholesterol[mg/dL]	HDL 
+numerical - LDL_chole	LDL cholesterol[mg/dL]	LDL 
+numerical - triglyceride	triglyceride[mg/dL]	
+numerical - hemoglobin	hemoglobin[g/dL]	
+categorical - urine_protein	protein in urine, 1(-), 2(+/-), 3(+1), 4(+2), 5(+3), 6(+4)	
+numerical - serum_creatinine	serum(blood) creatinine[mg/dL]	
+numerical - SGOT_AST	SGOT(Glutamate-oxaloacetate transaminase) AST(Aspartate transaminase)[IU/L]
+numerical - SGOT_ALT	ALT(Alanine transaminase)[IU/L]	
+numerical - gamma_GTP	y-glutamyl transpeptidase[IU/L]
+categorical - SMK_stat_type_cd	Smoking state, 1(never), 2(used to smoke but quit), 3(still smoke)
+categorical - DRK_YN	Drinker or Not	
